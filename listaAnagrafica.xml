@@ -9,9 +9,9 @@
     <indirizzo>
         via Monte Bianco 99
     </indirizzo>
-    <città>
+    <citta>
         Milano
-    </città>
+    </citta>
     </persona>
     
      <persona>
@@ -24,9 +24,9 @@
     <indirizzo>
         via Monte Bianco 99
     </indirizzo>
-    <città>
+    <citta>
         Milano
-    </città>
+    </citta>
     </persona>
      <persona>
     <nome>
@@ -38,9 +38,9 @@
     <indirizzo>
         via Monte Bianco 99
     </indirizzo>
-    <città>
+    <citta>
         Milano
-    </città>
+    </citta>
     </persona>
     
 </listaAnagrafica>
